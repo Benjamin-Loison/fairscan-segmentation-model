@@ -25,7 +25,7 @@ The dataset can be found in a separate repository:
 It's automatically downloaded in the training script.
 
 ## Training
-```
+```shell
 # 1. Clone the repository
 git clone https://github.com/pynicolas/fairscan-segmentation-model
 cd fairscan-segmentation-model
